@@ -1,0 +1,23 @@
+.TodoInsert {
+  text-align: center;
+}
+
+.wrapper > h1 {
+  text-align: center;
+}
+
+.TodoListItem {
+  width: 1500px;
+  margin: auto;
+}
+
+.body {
+  width: 150px;
+  height: 150px;
+  border: 2px solid green;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
